@@ -11,7 +11,7 @@ Today, I want to address Velodrome/Aerodrome, a genuine success story in DeFi. I
 
 ![crv-vs-velo-cover](/img/2024/crv-vs-velo/cover.png)
 
-First, let me start with a disclaimer: there are two core components to a DEX that everyone needs to be aware of to understand what follows:
+First, let me test start with a disclaimer: there are two core components to a DEX that everyone needs to be aware of to understand what follows:
 
 
 
